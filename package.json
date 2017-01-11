@@ -1,0 +1,26 @@
+{
+  "name": "lsm303",
+  "version": "0.1.0",
+  "description": "Node.js Module for LSM303",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "i2c": "https://github.com/scramble45/i2cjs.git"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scramble45/lsm303c.git"
+  },
+  "keywords": [
+    "lsm303c","nodejs","node","js","bonescript"
+  ],
+  "author": "Rowan Hamilton <scramble@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scramble45/lsm303c/issues"
+  },
+  "homepage": "https://github.com/scramble45/lsm303c"
+}
